@@ -1,0 +1,3 @@
+== README
+
+A test project to see what it would take to run R scripts via rake or with the rinruby gem.
